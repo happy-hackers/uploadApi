@@ -1,0 +1,1 @@
+This fileStore is to store files uploaded by users.
